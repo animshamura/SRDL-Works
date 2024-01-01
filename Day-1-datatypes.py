@@ -1,0 +1,6 @@
+a = input()
+b = int(input())
+c = float(input())
+print(a,'is a string')
+print(b,'is an integer')
+print(c,'is a float')
